@@ -23,7 +23,7 @@ The dataset reveals that a small handful of microbial species (also called opera
   - Each sample will be display as a bubble, where the larger the sample value is the larger the bubble size
 
 ## **Data**
-For our project, we have visualized data extracted from the following dataset available in the Data folder <br/>
+For our challenge, I have visualized data extracted from the following dataset available in the Data folder <br/>
    * samples.json <br/>
 
 ## **Tools Used**
